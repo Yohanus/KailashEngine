@@ -7,8 +7,8 @@
     <ProjectGuid>{4C8CA06E-9384-42EA-810C-92D34BCC465A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KailashEngine</RootNamespace>
-    <AssemblyName>KailashEngine</AssemblyName>
+    <RootNamespace>MuffinEngine</RootNamespace>
+    <AssemblyName>MuffinEngine</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

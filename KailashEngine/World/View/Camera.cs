@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.World.Role;
+using MuffinEngine.World.Role;
 
-namespace KailashEngine.World.View
+namespace MuffinEngine.World.View
 {
     class Camera : ControllableWorldObject
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using OpenTK;
 
 
-namespace KailashEngine.World.Role
+namespace MuffinEngine.World.Role
 {
     class Character : ControllableWorldObject
     {

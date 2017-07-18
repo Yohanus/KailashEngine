@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-namespace KailashEngine.Animation
+namespace MuffinEngine.Animation
 {
     class SkeletonAnimator
     {

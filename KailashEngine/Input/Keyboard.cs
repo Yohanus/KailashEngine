@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 using OpenTK.Input;
 
-using KailashEngine.World.View;
-using KailashEngine.World.Role;
+using MuffinEngine.World.View;
+using MuffinEngine.World.Role;
 
-namespace KailashEngine.Input
+namespace MuffinEngine.Input
 {
     class Keyboard : InputDevice
     {

@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Client;
-using KailashEngine.Output;
-using KailashEngine.Render.Objects;
-using KailashEngine.Render.FX;
-using KailashEngine.World;
+using MuffinEngine.Client;
+using MuffinEngine.Output;
+using MuffinEngine.Render.Objects;
+using MuffinEngine.Render.FX;
+using MuffinEngine.World;
 
-namespace KailashEngine.Render
+namespace MuffinEngine.Render
 {
     class RenderDriver
     {

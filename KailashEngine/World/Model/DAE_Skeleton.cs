@@ -8,9 +8,9 @@ using OpenTK;
 
 using grendgine_collada;
 
-using KailashEngine.Animation;
+using MuffinEngine.Animation;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class DAE_Skeleton
     {

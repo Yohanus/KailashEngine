@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.Animation;
-using KailashEngine.Physics;
+using MuffinEngine.Animation;
+using MuffinEngine.Physics;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class UniqueMesh
     {

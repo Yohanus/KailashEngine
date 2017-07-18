@@ -8,9 +8,9 @@ using OpenTK;
 
 using grendgine_collada;
 
-using KailashEngine.Render.Objects;
+using MuffinEngine.Render.Objects;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class DAE_Material : Material
     {

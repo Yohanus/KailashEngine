@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Render.Objects;
+using MuffinEngine.Render.Objects;
 
-namespace KailashEngine.Render
+namespace MuffinEngine.Render
 {
     class StaticImageLoader
     {

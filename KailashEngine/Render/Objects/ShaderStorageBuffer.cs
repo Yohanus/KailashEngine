@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-namespace KailashEngine.Render.Objects
+namespace MuffinEngine.Render.Objects
 {
     class ShaderStorageBuffer
     {

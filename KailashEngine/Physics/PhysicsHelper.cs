@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using BulletSharp;
 using BulletSharp.Math;
 
-namespace KailashEngine.Physics
+namespace MuffinEngine.Physics
 {
     static class PhysicsHelper
     {

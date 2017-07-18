@@ -8,7 +8,7 @@ using OpenTK;
 
 using grendgine_collada;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class DAE_Mesh : Mesh
     {

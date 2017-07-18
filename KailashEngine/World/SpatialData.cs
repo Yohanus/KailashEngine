@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     [Serializable]
     class SpatialData

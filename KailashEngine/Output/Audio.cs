@@ -13,7 +13,7 @@ using OpenTK.Audio.OpenAL;
 
 
 
-namespace KailashEngine.Output
+namespace MuffinEngine.Output
 {
     class Audio
     {

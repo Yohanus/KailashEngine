@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Render;
-using KailashEngine.Animation;
-using KailashEngine.Physics;
-using KailashEngine.World;
-using KailashEngine.World.Model;
-using KailashEngine.World.Lights;
+using MuffinEngine.Render;
+using MuffinEngine.Animation;
+using MuffinEngine.Physics;
+using MuffinEngine.World;
+using MuffinEngine.World.Model;
+using MuffinEngine.World.Lights;
 
 
-namespace KailashEngine.Client
+namespace MuffinEngine.Client
 {
     class Scene
     {

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.Serialization;
-using KailashEngine.Output;
-using KailashEngine.Input;
-using KailashEngine.World.View;
-using KailashEngine.World.Role;
+using MuffinEngine.Serialization;
+using MuffinEngine.Output;
+using MuffinEngine.Input;
+using MuffinEngine.World.View;
+using MuffinEngine.World.Role;
 
-namespace KailashEngine.Client
+namespace MuffinEngine.Client
 {
     class Game
     {

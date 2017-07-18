@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.Render.Objects;
+using MuffinEngine.Render.Objects;
 
-namespace KailashEngine.World.Lights
+namespace MuffinEngine.World.Lights
 {
     class LightManager
     {

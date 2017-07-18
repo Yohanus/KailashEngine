@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.World.Model;
-using KailashEngine.Animation;
+using MuffinEngine.World.Model;
+using MuffinEngine.Animation;
 
-namespace KailashEngine.World.Lights
+namespace MuffinEngine.World.Lights
 {
     class Light : WorldObject
     {

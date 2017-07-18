@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.World.Model;
+using MuffinEngine.World.Model;
 
-namespace KailashEngine.World.Lights
+namespace MuffinEngine.World.Lights
 {
     class sLight : Light
     {

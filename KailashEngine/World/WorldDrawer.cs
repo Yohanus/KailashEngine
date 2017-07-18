@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Render;
-using KailashEngine.World.Model;
-using KailashEngine.World.Lights;
+using MuffinEngine.Render;
+using MuffinEngine.World.Model;
+using MuffinEngine.World.Lights;
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     static class WorldDrawer
     {

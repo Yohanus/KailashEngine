@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-namespace KailashEngine
+namespace MuffinEngine
 {
     static class EngineHelper
     {

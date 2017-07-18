@@ -10,10 +10,10 @@ using OpenTK.Graphics.OpenGL;
 
 using grendgine_collada;
 
-using KailashEngine.World.Model;
-using KailashEngine.Animation;
+using MuffinEngine.World.Model;
+using MuffinEngine.Animation;
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     static class DAE_Loader
     {

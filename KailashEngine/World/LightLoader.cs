@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.World.Lights;
-using KailashEngine.World.Model;
-using KailashEngine.Animation;
+using MuffinEngine.World.Lights;
+using MuffinEngine.World.Model;
+using MuffinEngine.Animation;
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     static class LightLoader
     {

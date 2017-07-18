@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using KailashEngine.Render.Objects;
+using MuffinEngine.Render.Objects;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class MaterialManager
     {

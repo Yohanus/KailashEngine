@@ -7,9 +7,9 @@ using System.IO;
 
 using OpenTK;
 
-using KailashEngine.Output;
+using MuffinEngine.Output;
 
-namespace KailashEngine.Client
+namespace MuffinEngine.Client
 {
     class ClientConfig
     {

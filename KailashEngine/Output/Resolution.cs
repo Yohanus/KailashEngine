@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-namespace KailashEngine.Output
+namespace MuffinEngine.Output
 {
     class Resolution
     {

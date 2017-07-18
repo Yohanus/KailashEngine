@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-namespace KailashEngine.Render.Shader
+namespace MuffinEngine.Render.Shader
 {
     class ShaderFile
     {

@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 using OpenTK;
 
 
-using KailashEngine.World;
-using KailashEngine.World.Role;
-using KailashEngine.World.View;
-using KailashEngine.Physics;
+using MuffinEngine.World;
+using MuffinEngine.World.Role;
+using MuffinEngine.World.View;
+using MuffinEngine.Physics;
 
-namespace KailashEngine.Client
+namespace MuffinEngine.Client
 {
     class Player
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KailashEngine.World.Role
+namespace MuffinEngine.World.Role
 {
     class NonPlayableCharacter : Character
     {

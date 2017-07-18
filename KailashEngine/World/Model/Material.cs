@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.Render.Objects;
+using MuffinEngine.Render.Objects;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class Material
     {

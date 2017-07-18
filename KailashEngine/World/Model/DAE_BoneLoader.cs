@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-namespace KailashEngine.World.Model
+namespace MuffinEngine.World.Model
 {
     class DAE_BoneLoader
     {

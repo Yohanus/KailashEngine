@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Render.Shader;
-using KailashEngine.Render.Objects;
-using KailashEngine.Output;
+using MuffinEngine.Render.Shader;
+using MuffinEngine.Render.Objects;
+using MuffinEngine.Output;
 
-namespace KailashEngine.Render.FX
+namespace MuffinEngine.Render.FX
 {
     class fx_MotionBlur : RenderEffect
     {

@@ -11,14 +11,14 @@ using OpenTK.Input;
 
 using Cgen.Audio;
 
-using KailashEngine.Debug;
-using KailashEngine.Output;
-using KailashEngine.Client;
-using KailashEngine.Render;
-using KailashEngine.Render.Shader;
-using KailashEngine.Physics;
+using MuffinEngine.Debug;
+using MuffinEngine.Output;
+using MuffinEngine.Client;
+using MuffinEngine.Render;
+using MuffinEngine.Render.Shader;
+using MuffinEngine.Physics;
 
-namespace KailashEngine
+namespace MuffinEngine
 {
     class EngineDriver : GameWindow
     {

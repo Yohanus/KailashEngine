@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using OpenTK;
 
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     class ControllableWorldObject : WorldObject
     {

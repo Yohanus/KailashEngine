@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-using KailashEngine.Output;
+using MuffinEngine.Output;
 
-namespace KailashEngine.Render.FX
+namespace MuffinEngine.Render.FX
 {
     abstract class RenderEffect
     {

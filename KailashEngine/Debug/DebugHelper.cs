@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-namespace KailashEngine.Debug
+namespace MuffinEngine.Debug
 {
     static class DebugHelper
     {

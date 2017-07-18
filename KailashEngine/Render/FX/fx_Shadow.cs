@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Client;
-using KailashEngine.Render.Shader;
-using KailashEngine.Render.Objects;
-using KailashEngine.World;
-using KailashEngine.World.Lights;
-using KailashEngine.Output;
+using MuffinEngine.Client;
+using MuffinEngine.Render.Shader;
+using MuffinEngine.Render.Objects;
+using MuffinEngine.World;
+using MuffinEngine.World.Lights;
+using MuffinEngine.Output;
 
-namespace KailashEngine.Render.FX
+namespace MuffinEngine.Render.FX
 {
     class fx_Shadow : RenderEffect
     {

@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Client;
-using KailashEngine.Output;
-using KailashEngine.Render.Shader;
-using KailashEngine.Render.Objects;
+using MuffinEngine.Client;
+using MuffinEngine.Output;
+using MuffinEngine.Render.Shader;
+using MuffinEngine.Render.Objects;
 
-using KailashEngine.World;
-using KailashEngine.World.Lights;
+using MuffinEngine.World;
+using MuffinEngine.World.Lights;
 
-namespace KailashEngine.Render.FX
+namespace MuffinEngine.Render.FX
 {
     class fx_gBuffer : RenderEffect
     {

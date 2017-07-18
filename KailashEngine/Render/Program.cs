@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Render.Shader;
+using MuffinEngine.Render.Shader;
 
-namespace KailashEngine.Render
+namespace MuffinEngine.Render
 {
     class Program
     {

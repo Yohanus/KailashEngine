@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-using KailashEngine.Render.Shader;
+using MuffinEngine.Render.Shader;
 
-namespace KailashEngine.Render
+namespace MuffinEngine.Render
 {
     class ProgramLoader
     {

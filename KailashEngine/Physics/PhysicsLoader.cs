@@ -9,9 +9,9 @@ using BulletSharp;
 using BulletSharp.Math;
 
 
-using KailashEngine.World.Model;
+using MuffinEngine.World.Model;
 
-namespace KailashEngine.Physics
+namespace MuffinEngine.Physics
 {
     static class PhysicsLoader
     {

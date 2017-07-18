@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 using OpenTK.Graphics.OpenGL;
 
-using KailashEngine.Client;
+using MuffinEngine.Client;
 
-using KailashEngine.Scripting;
+using MuffinEngine.Scripting;
 
-namespace KailashEngine
+namespace MuffinEngine
 {
     class Launcher
     {
@@ -150,13 +150,13 @@ namespace KailashEngine
             // Initialize Game
             Game game = new Game(game_config);
 
-            using (EngineDriver KailashEngine = new EngineDriver(game))
+            using (EngineDriver MuffinEngine = new EngineDriver(game))
             {
                 string version = GL.GetString(StringName.Version);
                 if (version.Substring(0, 3) == game.config.gl_version_string)
                 {
                     Console.WriteLine(version + "\n");
-                    KailashEngine.Run(game.config.fps_target);
+                    MuffinEngine.Run(game.config.fps_target);
                 }
                 else
                 {

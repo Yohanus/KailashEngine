@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Neo.IronLua;
 
-namespace KailashEngine.Scripting
+namespace MuffinEngine.Scripting
 {
     using Debug;
 

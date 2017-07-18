@@ -10,7 +10,7 @@ using AntTweakBar;
 using OpenTK;
 using OpenTK.Input;
 
-namespace KailashEngine.Debug
+namespace MuffinEngine.Debug
 {
     class DebugWindow
     {

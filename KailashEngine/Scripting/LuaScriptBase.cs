@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Neo.IronLua;
-using KailashEngine.Debug;
+using MuffinEngine.Debug;
 
-namespace KailashEngine.Scripting
+namespace MuffinEngine.Scripting
 {
     public class LuaScriptBase
     {

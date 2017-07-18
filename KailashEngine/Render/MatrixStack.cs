@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
-namespace KailashEngine.Render
+namespace MuffinEngine.Render
 {
     class MatrixStack
     {

@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using OpenTK;
 using OpenTK.Input;
 
-using KailashEngine.World.Role;
+using MuffinEngine.World.Role;
 
-namespace KailashEngine.Input
+namespace MuffinEngine.Input
 {
     class Mouse : InputDevice
     {

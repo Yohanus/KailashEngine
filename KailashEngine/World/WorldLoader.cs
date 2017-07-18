@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 using OpenTK;
 
-using KailashEngine.Physics;
-using KailashEngine.World.Model;
-using KailashEngine.World.Lights;
+using MuffinEngine.Physics;
+using MuffinEngine.World.Model;
+using MuffinEngine.World.Lights;
 
-namespace KailashEngine.World
+namespace MuffinEngine.World
 {
     class WorldLoader
     {
